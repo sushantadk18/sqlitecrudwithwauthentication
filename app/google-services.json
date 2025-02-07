@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "981025421369",
+    "project_id": "level6app-b0d52",
+    "storage_bucket": "level6app-b0d52.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981025421369:android:46bdac8720e479ccafb5e8",
+        "android_client_info": {
+          "package_name": "com.example.level6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATtuA94QsFT5m5041a1sSS5hBriqxklso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981025421369:android:f807de5f721d423aafb5e8",
+        "android_client_info": {
+          "package_name": "com.example.sqlite_project1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATtuA94QsFT5m5041a1sSS5hBriqxklso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
